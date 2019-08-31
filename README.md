@@ -1,4 +1,5 @@
-# Proyecto-Horarios-y-Desktop-App-Java-Web
-Aplicación JavaEE dinámica para mostrar horarios de cursadas en una cartelera. Incluye aplicación Java desktop para actualizar dichos horarios.
+# Proyecto-Horarios-y-Desktop-App-Java-Web 🚀
+__Aplicación JavaEE dinámica para mostrar horarios de cursadas en una cartelera. Incluye aplicación Java desktop para actualizar dichos horarios.__
 
-Ver en Youtube: https://www.youtube.com/watch?v=HsLbfApxirA
+### Les dejo el video del funcionamiento de la app: 🔧
+[Ver en Youtube el funcionamiento](https://www.youtube.com/watch?v=HsLbfApxirA)
