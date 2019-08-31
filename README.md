@@ -5,6 +5,6 @@ __Aplicación JavaEE dinámica para mostrar horarios de cursadas en una carteler
 [Ver en Youtube el funcionamiento](https://www.youtube.com/watch?v=HsLbfApxirA)
 
 ## Autor: ✒️
-* [Alejandro G. Vera](https://alexielardilla.github.io/dev_portfolio/)
+* [Alejandro G. Vera](https://linkedin.com/in/alejandro-gonzalo-vera/)
 <br/></br>
 # Enjoy!
