@@ -1,0 +1,32 @@
+/* *** Estilo Horarios *** */
+table {
+    font-family: sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td{
+    border: 1px solid #000000;
+    text-align: left;
+   padding: 2px;
+    font-weight: bold;
+    font-size:x-large;
+}
+
+th{
+  border: 1px solid #000000;
+    text-align: left;
+   padding: 1px;
+  color: black; 
+  font-family:Cambria;
+  font-size:x-large;
+ }
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+/* Para parpadear el color junto a js*/
+.invalid-blink {
+    background-color: red !important;
+}
